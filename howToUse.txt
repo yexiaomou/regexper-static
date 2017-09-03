@@ -1,0 +1,7 @@
+1.启动 npm start
+2.访问 htttp://localhost:8080/
+
+======更新
+删除文件夹下所有内容D:\gitProject\regexper-static\node_modules
+
+然后执行 npm install
